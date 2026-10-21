@@ -11,6 +11,15 @@ Array, Math
 - **Runtime:** 1 ms
 - **Memory:** 19.1 MB
 
+### 💡 Personal Notes & Intuition
+
+> [!TIP]
+> **Author's Revision Insights & Edge Cases:**
+>
+> > 💡 **Intuition:** Core observation...
+> 
+> > ⚠️ **Edge Case Trap:** Watch out for overflow / empty inputs...
+
 ---
 
 ### 📜 Problem Description
