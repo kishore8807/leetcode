@@ -1,4 +1,4 @@
-# 📝 3232. Find if Digit Game Can Be Won (LeetCode)
+# 📝 3515. Find if Digit Game Can Be Won (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/find-if-digit-game-can-be-won/)
 
