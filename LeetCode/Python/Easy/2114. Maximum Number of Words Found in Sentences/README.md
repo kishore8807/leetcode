@@ -1,6 +1,6 @@
 # 📝 2114. Maximum Number of Words Found in Sentences (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
